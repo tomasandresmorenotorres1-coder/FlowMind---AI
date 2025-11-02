@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Config VS Code
+.vscode/

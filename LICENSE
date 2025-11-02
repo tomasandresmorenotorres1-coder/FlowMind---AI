@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+
+---
+
+## 🧰 **FASE 3 – Preparar el entorno virtual**
+
+### 🧮 Paso 5: Crear entorno de Python
+
+Abre la **terminal en VS Code** (Ctrl + ñ o desde “Terminal → New Terminal”)  
+y escribe:
+
+```bash
+python -m venv venv
