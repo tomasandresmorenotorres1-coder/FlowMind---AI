@@ -29,3 +29,7 @@ source venv/bin/activate   # o venv\Scripts\activate en Windows
 
 # Instalar dependencias
 pip install -r requirements.txt
+=======
+# FlowMind-AI
+IA experimental para analisis y generacion musical
+>>>>>>> 00cc684d57de8c9a8d3463ea668b8b6aa7c78aed
